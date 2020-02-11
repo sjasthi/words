@@ -1,2 +1,2 @@
-# words
-Words: A reference implementation for ICS325 students
+# abasiccomposer
+A Basic Composer (ABC)
